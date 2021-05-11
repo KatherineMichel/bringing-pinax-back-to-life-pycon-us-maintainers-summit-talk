@@ -250,7 +250,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 <tr><td width="30%">
 
-![Slide 13](https://speakerd.s3.amazonaws.com/presentations/55d27208aab64c78b8b07a8acb9e8bc80/slide_12.jpg)
+![Slide 13](https://speakerd.s3.amazonaws.com/presentations/55d27208aab64c78b8b07a8acb9e8bc8/slide_12.jpg)
 
 </td><td>
 
