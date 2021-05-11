@@ -329,7 +329,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 </td><td>
 
-### One Source of Docs
+### Variations in Configurations
 
 * Placeholder
 
@@ -344,7 +344,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 </td><td>
 
-### Variations in Configurations
+### One Configuration Approach
 
 * Placeholder
 
@@ -359,7 +359,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 </td><td>
 
-### One Configuration Approach
+### Reduce the Backlog
 
 * Placeholder
 
@@ -374,7 +374,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 </td><td>
 
-### Reduce the Backlog
+### Engagement with Individuals
 
 * Placeholder
 
@@ -389,7 +389,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 </td><td>
 
-### Engagement with Individuals
+### Communicate Better
 
 * Placeholder
 
@@ -404,7 +404,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 </td><td>
 
-### Communicate Better
+### Engagement with Community
 
 * Placeholder
 
@@ -419,7 +419,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 </td><td>
 
-### Engagement with Community
+### Automation
 
 * Placeholder
 
@@ -434,7 +434,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 </td><td>
 
-### Automation
+### How It's Going: July 2020 Release
 
 * Placeholder
 
@@ -449,7 +449,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 </td><td>
 
-### How It's Going: July 2020 Release
+### How It's Going: 21.05 Release
 
 * Placeholder
 
@@ -464,7 +464,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 </td><td>
 
-### How It's Going: 21.05 Release
+### Biggest Lesson Learned
 
 * Placeholder
 
@@ -479,7 +479,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 </td><td>
 
-### Biggest Lesson Learned
+### Additional Ideas
 
 * Placeholder
 
@@ -494,21 +494,6 @@ The script is a general outline and varies somewhat from what was said during th
 
 </td><td>
 
-### Additional Ideas
-
-* Placeholder
-
-</td></tr>
-
-
-<table>
-
-<tr><td width="30%">
-
-![Slide 30](https://speakerd.s3.amazonaws.com/presentations/55d27208aab64c78b8b07a8acb9e8bc8/slide_29.jpg)
-
-</td><td>
-
 ### Reality
 
 * Placeholder
@@ -520,7 +505,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 <tr><td width="30%">
 
-![Slide 31](https://speakerd.s3.amazonaws.com/presentations/55d27208aab64c78b8b07a8acb9e8bc8/slide_30.jpg)
+![Slide 30](https://speakerd.s3.amazonaws.com/presentations/55d27208aab64c78b8b07a8acb9e8bc8/slide_29.jpg)
 
 </td><td>
 
