@@ -1,4 +1,4 @@
-# Bringing Pinax Back to Life- PyCon US Maintainers Summit
+# Bringing Pinax Back to Life- PyCon US Maintainers Summit Talk
 
 ## Table of Contents
 
